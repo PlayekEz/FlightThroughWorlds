@@ -1,0 +1,5 @@
+name: "Flight Through Worlds"
+main: Playek\FTW\Main
+version: 1.0
+author: "@SoyPlayek"
+api: 3.0.0
