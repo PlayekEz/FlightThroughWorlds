@@ -1,4 +1,4 @@
-# FlightThroughWorlds
+# FlyPerWorld
 New plugin! You can allow or deny the flight in each world!
 
 This plugin will make all the flight control in every worldThis plugin will do all the flight control in every world!
